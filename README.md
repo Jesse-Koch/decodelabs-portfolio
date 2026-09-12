@@ -10,16 +10,16 @@ A four-project portfolio demonstrating the complete data analytics workflow, fro
 
 | # | Project | Skills |
 |---|---------|--------|
-| 1 | [Data Cleaning & Preparation](project1-data-cleaning/) | Excel, data quality, validation |
-| 2 | [Exploratory Data Analysis](project2-eda/) | Excel, statistics, correlation |
-| 3 | [SQL Data Analysis](project3-sql-analysis/) | MySQL, aggregations, HAVING |
-| 4 | [Data Visualization](project4-data-visualization/) | Excel charts, PowerPoint, storytelling |
+| 1 | [Data Cleaning & Preparation] | Excel, data quality, validation |
+| 2 | [Exploratory Data Analysis]| Excel, statistics, correlation |
+| 3 | [SQL Data Analysis]| MySQL, aggregations, HAVING |
+| 4 | [Data Visualization]| Excel charts, PowerPoint, storytelling |
 
 ---
 
 ## Dataset
 
-1,200 e-commerce orders across 14 columns (Jan 2023 - Jun 2025).
+1,200 orders across 14 columns (Jan 2023 - Jun 2025).
 
 ---
 
