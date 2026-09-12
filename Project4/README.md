@@ -9,6 +9,7 @@
 ## Deliverable
 
 A 9-slide PowerPoint dashboard.
+(provided in PDF form as well)
 
 ---
 
