@@ -32,6 +32,9 @@ A four-project portfolio demonstrating the complete data analytics workflow, fro
 
 ---
 
+## Files
+- DecodeLabs_Dataset for Data Analytics - Raw dataset
+
 ## Tools Used
 
 MySQL · Excel · PowerPoint · python-docx
