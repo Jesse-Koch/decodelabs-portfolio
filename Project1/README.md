@@ -20,7 +20,7 @@ Cleaned an e-commerce dataset (1,200 rows, 14 columns) from raw and messy to ana
 | Change | Columns Affected |
 |--------|------------------|
 | Set correct data types | All 14 |
-| Checked for duplicates | Order ID — 0 found |
+| Checked for duplicates | Order ID (0 found) |
 | Trimmed & cleaned text | 9 text columns |
 | Standardized case | Product, Payment Method, Order Status, Referral Source |
 | Converted to decimal & rounded | Unit Price, Total Price |
