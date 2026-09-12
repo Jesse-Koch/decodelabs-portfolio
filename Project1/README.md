@@ -26,7 +26,7 @@ Cleaned an e-commerce dataset (1,200 rows, 14 columns) from raw and messy to ana
 | Converted to decimal & rounded | Unit Price, Total Price |
 | Created ISO 8601 dates | Date |
 | Imputed nulls (median/mode) | Quantity, Items in Cart, Payment Method, Order Status |
-| Replaced nulls with labels | Coupon Code → "No Coupon", Referral Source → "Unknown" |
+| Replaced nulls with labels | Coupon Code → "No Coupon" |
 | Cross-validated 8 rules | See below |
 
 ---
