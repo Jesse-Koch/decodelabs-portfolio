@@ -35,8 +35,8 @@ EDA on 1,200 cleaned e-commerce orders - univariate stats, outliers, correlation
 | Total Revenue | $1,264,761.96 |
 | Total Orders | 1,200 |
 | Average Order Value | $1,053.97 |
-| 2024 Decline | −13.1% |
-| Q4 2024 Decline | −22.2% |
+| 2024 Decline | -13.1% |
+| Q4 2024 Decline | -22.2% |
 | Best Weekday (Volume) | Sunday (186 orders) |
 | Highest AOV Day | Thursday ($1,096.79) |
 | Outlier Orders | 8 (above $3,330.42) |
