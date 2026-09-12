@@ -1,8 +1,8 @@
 # Project 4: Data Visualisation
 
-**DecodeLabs Industrial Training Kit**
+**DecodeLabs Industrial Training**
 
-9-slide dashboard built from the e-commerce dataset analyzed in Projects 1–3.
+9-slide dashboard built from the dataset analyzed in Projects 1–3.
 
 ---
 
