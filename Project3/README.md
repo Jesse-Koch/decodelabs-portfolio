@@ -2,7 +2,7 @@
 
 **DecodeLabs Industrial Training**
 
-SQL analysis of 1,200 e-commerce orders using MySQL. Covers SELECT, WHERE, ORDER BY, GROUP BY, and aggregations.
+SQL analysis of 1,200 orders using MySQL. Covers SELECT, WHERE, ORDER BY, GROUP BY, and aggregations.
 
 ---
 
