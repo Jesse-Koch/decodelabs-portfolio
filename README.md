@@ -1,8 +1,8 @@
 # DecodeLabs Data Analytics Portfolio
 
-**Batch 2026 | Industrial Training Kit**
+**Industrial Training Kit**
 
-A four-project portfolio demonstrating the complete data analytics workflow — from cleaning to storytelling.
+A four-project portfolio demonstrating the complete data analytics workflow, from cleaning to storytelling.
 
 ---
 
@@ -19,7 +19,7 @@ A four-project portfolio demonstrating the complete data analytics workflow — 
 
 ## Dataset
 
-1,200 e-commerce orders across 14 columns (Jan 2023 – Jun 2025).
+1,200 e-commerce orders across 14 columns (Jan 2023 - Jun 2025).
 
 ---
 
@@ -29,8 +29,6 @@ A four-project portfolio demonstrating the complete data analytics workflow — 
 - 2024 revenue declined 13.1% vs 2023
 - Q4 2024 dropped 22.2% vs Q4 2023
 - Strongest correlation: Unit Price ↔ Total Price (r = 0.72)
-- Cart abandonment rate: ~46%
-- 8 VIP outlier orders average 4× the median
 
 ---
 
@@ -42,4 +40,4 @@ MySQL · Excel · PowerPoint · python-docx
 
 ## Author
 
-[Your Name] — DecodeLabs Batch 2026
+Jesse Trevor Koch
