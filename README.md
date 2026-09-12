@@ -10,10 +10,10 @@ A four-project portfolio demonstrating the complete data analytics workflow, fro
 
 | # | Project | Skills |
 |---|---------|--------|
-| 1 | [Data Cleaning & Preparation] | Excel, data quality, validation |
-| 2 | [Exploratory Data Analysis]| Excel, statistics, correlation |
-| 3 | [SQL Data Analysis]| MySQL, aggregations, HAVING |
-| 4 | [Data Visualization]| Excel charts, PowerPoint, storytelling |
+| 1 | Data Cleaning & Preparation | Excel, data quality, validation |
+| 2 | Exploratory Data Analysis| Excel, statistics, correlation |
+| 3 | SQL Data Analysis| MySQL, aggregations, HAVING |
+| 4 | Data Visualization| Excel charts, PowerPoint, storytelling |
 
 ---
 
