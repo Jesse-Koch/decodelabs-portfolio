@@ -2,7 +2,7 @@
 
 **DecodeLabs Industrial Training**
 
-EDA on 1,200 cleaned e-commerce orders - univariate stats, outliers, correlations, time-series, weekday patterns.
+EDA on 1,200 cleaned orders - univariate stats, outliers, correlations, time-series, weekday patterns.
 
 ---
 
