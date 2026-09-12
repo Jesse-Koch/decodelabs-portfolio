@@ -1,6 +1,6 @@
 # Project 1: Data Cleaning & Preparation
 
-**DecodeLabs Industrial Training Kit **
+**DecodeLabs Industrial Training Kit**
 
 Cleaned an e-commerce dataset (1,200 rows, 14 columns) from raw and messy to analysis-ready.
 
